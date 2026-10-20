@@ -1,9 +1,9 @@
 # Virtual Pet Simulator
 
 ## Names of Pair Working on This Fork
-<Enter Name 1 Here>
+Maxwell Baumstark
 
-<Enter Name 2 Here>
+Joey Bear
 
 ## Run from Git Bash
 
